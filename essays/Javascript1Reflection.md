@@ -10,5 +10,5 @@ labels:
   - Personal
 ---
 
-	Coming
+   Coming into Computer Science a newbie has been overwhelming, to say the least. My experience with coding was minimal entering University, limited no further than a simple code that printed "Hello World" in C++. 
 
