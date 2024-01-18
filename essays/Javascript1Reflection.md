@@ -10,6 +10,5 @@ labels:
   - Personal
 ---
 
-First encounters with Javascript
-
+	Coming
 
