@@ -10,5 +10,8 @@ labels:
   - Personal
 ---
 
-   Coming into Computer Science a newbie has been overwhelming, to say the least. My experience with coding was minimal entering University, limited no further than a simple code that printed "Hello World" in C++. Now, however, my understanding for coding has grown tremendously. So far, I have already reviewed the basics of 5 languages: Python, Java, C, C++, and now Javascript.
-	Javascript reminded me of learning Python in the sense that both languages are, at least to myself, not as difficult than most other languages.
+
+	##Coming into Computer Science a newbie has been overwhelming, to say the least. My experience with coding was minimal entering University, limited no further than a simple code that printed "Hello World" in C++. Now, however, my understanding for coding has grown tremendously. So far, I have already reviewed the basics of 5 languages: Python, Java, C, C++, and now Javascript.
+
+	#Learning Javascript reminded me of learning Python in the sense that both languages are, at least to myself, not as difficult as most other languages. I learned that not only do I understand basic concepts due to my past year and a half in this degree, I enjoyed using this language. The syntax just makes sense to me. 
+	
