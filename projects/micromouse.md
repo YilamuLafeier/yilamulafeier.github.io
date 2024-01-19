@@ -16,6 +16,7 @@ summary: "A C++ code my group members and I made in our ICS 212 class."
 While my portfolio is still very fresh (like me), courses at my university offer opportunities to add to it. Among these opportunities was a simple hotel management system for my Program Structures class. I worked on this with a group of my peers- four other students -allowing me to experience coding in a team. Communication was key; our schedules did not necessarily align so we made most of class time and short gatherings in the university library. Workload was split fairly among the five of us: after working on a basic outline together, we each sculpted our own version and shared it with each other when we finished. From there, we compared our work and went with the code that worked the best for us after implementing pieces of our own work with it. Attatched to this website is the code I made prior to the deliberation but after my group and I put together a basic outline.
 
 
+This is the code:
 
 ```cpp
 /*
