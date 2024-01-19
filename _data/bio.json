@@ -41,7 +41,7 @@
       ]
     },
   ],
-  "work": [
+  /*"work": [
     {
       "company": "Placeholder",
       "position": "Placeholder",
@@ -54,15 +54,15 @@
         "Placeholder"
       ]
     },
-  ],
-  "volunteer": [
+  ],*/
+  /*"volunteer": [
     {
       "organization": "Placeholder",
       "website": "",
       "position": "",
       "startDate": "",
       "endDate": "",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "",
       "highlights": [
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
@@ -81,8 +81,8 @@
         "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
-  ],
-  "awards": [
+  ],*/
+  /*"awards": [
     {
       "title": "B+ Scholarship",
       "date": "2013-Present",
@@ -95,7 +95,7 @@
       "awarder": "University of Hawaii Micromouse Competition",
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
-  ],
+  ],*/
   "references": [
     {
       "name": "Available upon request"
