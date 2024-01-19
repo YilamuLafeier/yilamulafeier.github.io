@@ -19,7 +19,7 @@ Attatched at the bottom is the Customer class. Private member variables stores v
 
 This is a snippet the code:
 
-```cpp
+```cpp:
 
 #include <iostream>
 #include <string.h>
