@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: yilamulafeier.github.io/img/hotelmanagement/homepage.jpeg
+image: img/hotelmanagement/homepage.jpeg
 title: "Hotel Management System"
 date: 2023
 published: True
