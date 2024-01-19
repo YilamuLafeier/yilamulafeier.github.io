@@ -8,7 +8,7 @@ published: True
 labels:
   - School Project
   - Group Project
-	- Teamwork
+- Teamwork
   - C++
 summary: "A C++ code my group members and I made in our ICS 212 class."
 ---
