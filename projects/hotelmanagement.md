@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <div class="text-center p-4"><img width="200px" src="img/hotelmanagement/homepage.jpeg" class="img-thumbnail" ></div>
+image: img/hotelmanagement/homepage.jpeg
 title: "Hotel Management System"
 date: 2023
 published: True
