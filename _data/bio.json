@@ -6,12 +6,11 @@
     "email": "lafeier@hawaii.edu",
     "phone": "(562) 567-3250",
     "website": "https://yilamulafeier.github.io",
-    "summary": "I am currently studying for my Bachelor of Science in Computer Science at the University of Hawaii at Manoa. I am currently in my second year.",
+    "summary": "I am currently studying for my Bachelor of Science in Computer Science at the University of Hawaii at Manoa. I am in my second year.",
     "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "YilamuLafeier", "url": "http://github.com/yilamulafeier" },
       { "network": "linkedin", "username": "Yilamu Lafeier", "url": "https://www.linkedin.com/in/yilamu-lafeier" },
-      { "network": "instagram", "username": "", "url": "" }
     ]
   },
   "interests": [
@@ -22,7 +21,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript"]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python"]
     },
     {
       "name": "Toolsets/OS",
@@ -36,51 +35,39 @@
       "studyType": "B.S.",
       "startDate": "2022-08-21",
       "endDate": "Present",
-      "courses": [
-        ""
-      ]
     },
   ],
   "work": [
     {
-      "company": "Placeholder",
-      "position": "Placeholder",
-      "website": "",
-      "startDate": "null",
-      "endDate": "null",
-      "summary": "Placeholder",
-      "highlights": [
-        "Placeholder",
-        "Placeholder"
-      ]
+      "company": "Quiora (G. Lion Hawaii)",
+      "position": "Floater/Food Runner",
+      "website": "https://www.quiorawaikiki.com",
+      "startDate": "September 2022",
+      "endDate": "Present",
+      "summary": "Floaters bus tables, assist servers, run food, expedite, and ensure a smooth flow of service.",
     },
   ],
   "volunteer": [
     {
-      "organization": "Placeholder",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Lyons Arboretum",
+      "website": "https://manoa.hawaii.edu/lyon/",
+      "position": "No set position/volunteer",
+      "startDate": "10.21.2023",
+      "endDate": "10.21.2023",
+      "summary": "Assisted the Lyons Arboretum with clearing weeeds from a field to allow for the growth of Koa trees",
       "highlights": [
-        "Placeholder"
+        "Great teamwork experience"
+        "Done for the conservation of Native Hawaiian flora"
       ]
     },
   ],
   "awards": [
     {
-      "title": "Placeholder",
-      "date": "Placeholder",
-      "awarder": "Placeholder",
-      "summary": "Placeholder."
+      "title": "Hawaiian Airlines Information Technology Endowed Scholarship",
+      "date": "11.15.2023",
+      "awarder": "Hawaiian Airlines",
+      "summary": "A scholarship from Hawaiian Airlines to support students going into Information Technology/Computer Science. Awarded $2960.00."
     },
-    {
-      "title": "Placeholder",
-      "date": "null",
-      "awarder": "Placeholder",
-      "summary": "Placeholder"
-    }
   ],
   "references": [
     {
