@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: yilamulafeier.github.io/img/LyonsArboretum/IMG_0946.jpeg
+image: img/LyonsArboretum/IMG_0946.jpeg
 title: "Field Day at the Lyons Arboretum"
 date: 2023
 published: True
