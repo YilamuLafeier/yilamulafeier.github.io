@@ -2,13 +2,14 @@
 layout: project
 type: project
 image: 
-title: "unnamed"
+title: "Field Day at the Lyons Arboretum"
 date: 2023
-published: False
+published: True
 labels:
-  - School Project
-  - Group Project
+  - Volunteer
   - Teamwork
-  - C++
-summary: "A C++ code my group members and I made in our ICS 212 class."
+  - Nature
+summary: "A day clearing a field at the Lyon's Arboretum in Mānoa Valley."
 ---
+
+  Tucked away in the recesses of O'ahu's Mānoa Valley, the Lyon Arboretum is a research unit funded by the Univerity of Hawai'i at Mānoa (UHM). Their work is geared towards the research and conservation of native plants. When I entered this experience, it was for a sociology assignment. However, after the day ended, I realized helping the Arboretum was genuinely enjoyeable. 
