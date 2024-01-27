@@ -1,4 +1,3 @@
----
 layout: project
 type: project
 image: img/LyonsArboretum/IMG_0946.jpeg
@@ -17,3 +16,7 @@ summary: "A day clearing a field at the Lyon's Arboretum in Mānoa Valley."
   When I entered this experience, it was for a sociology assignment. However, after the day ended, I enjoyed my time in the Arboretum more than expected. Typically, these jobs are done by the Arboretum staff and research students-sometimes with more tasks than bodies available. Our volunteer group was small as well but with our efforts, we were able to finish what would've taken them at least a full day's work. We spent about four hours on that clearing, our piles of assorted flora lugged away afterward to presumably be used in compost. From here, our guide called it a day and took us on a hike through Arboretum trails to unwind.
   
   Our little hike lasted no more than 40 minutes, however, the lush trail was fascinating. From poachers regulating the population of invasive species of boars to an off-season waterfall (just a trickle), there were a lot of things to experience. Following the hike back to HQ, we bid each other our farewells. What felt most rewarding was that we did help. In the grand scheme of things it was a minute task, but the effect it had was still quite real. The gratitude was heartfelt and now there is an opportunity for the growth of the rare Koa tree. As for moving forward- as my schedule grows lighter going into my summer break I would like to look into volunteering at the Lyons Arboretum again.
+
+Working at the Arboretum (faces censored)
+![IMG_9098](https://github.com/YilamuLafeier/yilamulafeier.github.io/assets/143864267/207a90a6-0d70-49db-9572-b5f05d6e6a5d)
+---
