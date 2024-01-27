@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/hackintosh/hackintosh.png
 title: "Hackintosh (macOS 11.2.2 \"Big Sur\")"
 date: 2021
 published: True
