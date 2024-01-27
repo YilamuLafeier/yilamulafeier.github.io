@@ -1,3 +1,4 @@
+---
 layout: project
 type: project
 image: img/LyonsArboretum/IMG_0946.jpeg
