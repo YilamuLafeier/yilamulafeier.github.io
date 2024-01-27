@@ -10,13 +10,13 @@
     "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "YilamuLafeier", "url": "http://github.com/yilamulafeier" },
-      { "network": "linkedin", "username": "Yilamu Lafeier", "url": "https://www.linkedin.com/in/yilamu-lafeier" },
+      { "network": "linkedin", "username": "Yilamu Lafeier", "url": "https://www.linkedin.com/in/yilamu-lafeier" }
     ]
   },
   "interests": [
     { "name": "Cybersecurity" },
     { "name": "Machine Learning" },
-    { "name": "iOS Security Research" },
+    { "name": "iOS Security Research" }
   ],
   "skills": [
     {
@@ -34,8 +34,8 @@
       "area": "Computer Science (expected Spring, 2026)",
       "studyType": "B.S.",
       "startDate": "2022-08-21",
-      "endDate": "Present",
-    },
+      "endDate": "Present"
+    }
   ],
   "work": [
     {
@@ -44,8 +44,8 @@
       "website": "https://www.quiorawaikiki.com",
       "startDate": "September 2022",
       "endDate": "Present",
-      "summary": "Floaters bus tables, assist servers, run food, expedite, and ensure a smooth flow of service.",
-    },
+      "summary": "Floaters bus tables, assist servers, run food, expedite, and ensure a smooth flow of service."
+    }
   ],
   "volunteer": [
     {
@@ -54,12 +54,12 @@
       "position": "No set position/volunteer",
       "startDate": "10.21.2023",
       "endDate": "10.21.2023",
-      "summary": "Assisted the Lyons Arboretum with clearing weeeds from a field to allow for the growth of Koa trees",
+      "summary": "Assisted the Lyons Arboretum with clearing weeds from a field to allow for the growth of Koa trees",
       "highlights": [
-        "Great teamwork experience"
+        "Great teamwork experience",
         "Done for the conservation of Native Hawaiian flora"
       ]
-    },
+    }
   ],
   "awards": [
     {
@@ -67,7 +67,7 @@
       "date": "11.15.2023",
       "awarder": "Hawaiian Airlines",
       "summary": "A scholarship from Hawaiian Airlines to support students going into Information Technology/Computer Science. Awarded $2960.00."
-    },
+    }
   ],
   "references": [
     {
