@@ -1,6 +1,13 @@
 <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
-  <div class="container-fluid">
+  <div class="container-fluid"> 
     <a class="navbar-brand" href="{{ '/' | prepend: site.baseurl }}">{{ site.data.bio.basics.name }}</a>
+    <button id="darkMode">Dark Mode</button>
+    <script>
+      const darkMode = document.getElementById('darkMode');
+      darkMode.addEventListener('click',() => {
+        document.body.classList.toggle('dark-mode');
+      });
+    </script>
     <div class="ms-auto">
       <ul class="navbar-nav mb-2 mb-lg-0">
         <a class="nav-link" href="{{ '/#projects' | prepend: site.baseurl }}">Projects</a>
