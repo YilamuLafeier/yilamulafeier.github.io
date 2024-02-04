@@ -22,4 +22,4 @@ The entire endeavor took me a few months to get working smoothly. Using [Dortani
 
 While the entire endeavor involved using automated tools for certain tasks, it served as a learning experience for me. I had never done something so technical in the field of computers before and most of what I know now about computers (Mac and macOS specifically) was gleaned from this project. I still have to PC used for the project as well- the boot files will be shared here (I will open it only to @hawaii.edu emails).
 
-Reddit post: [macOS 11.2.2 Big Sur on HP 800 G1 SFF](https://www.reddit.com/r/hackintosh/s/VC65W6U4pk)
+The Reddit post: [macOS 11.2.2 Big Sur on HP 800 G1 SFF](https://www.reddit.com/r/hackintosh/s/VC65W6U4pk)
