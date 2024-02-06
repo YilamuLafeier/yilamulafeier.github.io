@@ -26,3 +26,5 @@ While the entire endeavor involved using automated tools for certain tasks, it s
 **The Reddit post: [macOS 11.2.2 Big Sur on HP 800 G1 SFF](https://www.reddit.com/r/hackintosh/s/VC65W6U4pk)**
 
 
+The EFI folder (LINK NOT ACTIVE YET)
+
