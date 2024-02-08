@@ -26,3 +26,4 @@ While the entire endeavor involved using automated tools for certain tasks, it s
 **The Reddit post: [macOS 11.2.2 Big Sur on HP 800 G1 SFF](https://www.reddit.com/r/hackintosh/comments/m8vcto/big_sur_1122_on_hp_800_g1_sff_using_opencore_064/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1)**
 
 
+NOT THE ORIGINAL EFI: An EFI folder I was working on after my installation of Big Sur broke. Since I did not want to go through all the effort again I used pre-compiled SSDTs. [LINK](https://drive.google.com/file/d/1aXOQGjN6Nirsb_OhaT5n-z5s2972ng0w/view?usp=drivesdk)
