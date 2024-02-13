@@ -57,6 +57,10 @@ body.dark-mode {
   --tf-page-bg-color: #000000;
   --tf-footer-bg-color: #000000;
   --tf-projects-bg-color: #000000;
+
+  /*changes text to white*/
+  
+  color: #ffffff;
 }
 
 .dark-mode a {
