@@ -52,3 +52,18 @@ input:checked + .slider:before {
 .slider.round:before {
   border-radius: 50%;
 }
+
+body.dark-mode {
+  --tf-page-bg-color: #000000;
+  --tf-footer-bg-color: #000000;
+  --tf-projects-bg-color: #000000;
+}
+
+.dark-mode a {
+  color: #9ad1f5;
+}
+
+.dark-mode .navbar {
+  background-color: #1a1a1a;
+}
+
