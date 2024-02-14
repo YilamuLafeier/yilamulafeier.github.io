@@ -34,7 +34,7 @@
 }
 
 input:checked + .slider {
-  background-color: #2196F3;
+  background-color: #000000;
 }
 
 input:focus + .slider {
@@ -75,6 +75,6 @@ body.dark-mode {
 }
 
 .dark-mode .navbar {
-  background-color: #1a1a1a;
+  background-color: #000000;
 }
 
