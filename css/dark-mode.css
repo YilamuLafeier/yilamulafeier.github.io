@@ -71,10 +71,14 @@ body.dark-mode {
 }
 
 .dark-mode a {
-  color: #9ad1f5;
+  color: #ffffff;
 }
 
 .dark-mode .navbar {
   background-color: #000000;
+}
+
+.dark-mode .card-footer {
+  background-color: #000000
 }
 
