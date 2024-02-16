@@ -23,7 +23,7 @@
 }
 
 .slider:before {
-  position: relative;
+  position: absolute;
   content: "";
   height: 26px;
   width: 26px;
@@ -35,7 +35,7 @@
 
 input:checked + .slider {
   background-color: #000000;
-  box-shadow: #FFFFFF;
+  box-shadow: 0 0 1px #FFFFFF;
 }
 
 input:focus + .slider {
@@ -61,10 +61,9 @@ body.dark-mode {
   --tf-page-bg-color: #000000;
   --tf-footer-bg-color: #000000;
   --tf-projects-bg-color: #000000;
-  --tf-footer-bg-color: #000000;
   --tf-pill-bg: #000000;
-  --tf-icon-fill: var(--bs-white);
-  --tf-icon-hover: var(--bs-white);
+  --tf-icon-fill: #ffffff;
+  --tf-icon-hover: #ffffff;
   
 
   /*changes text to white*/
