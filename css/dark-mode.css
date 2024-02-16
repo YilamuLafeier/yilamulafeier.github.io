@@ -60,8 +60,8 @@ body.dark-mode {
   --tf-footer-bg-color: #000000;
   --tf-projects-bg-color: #000000;
   --tf-pill-bg: #000000;
-  --tf-icon-fill: var(--bs-white);
-  --tf-icon-hover: var(--bs-white);
+  --tf-icon-fill: #ffffff;
+  --tf-icon-hover: #cfcfd3;
   
 
   /*changes text to white*/
