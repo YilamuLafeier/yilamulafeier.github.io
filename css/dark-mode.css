@@ -35,13 +35,11 @@
 
 input:checked + .slider {
   background-color: #000000;
-  box-shadow: 0 0 1px #FFFFFF;
 }
 
 input:focus + .slider {
-  box-shadow: 0 0 1px #000000;
+  box-shadow: 0 0 1px #2196F3;
 }
-
 
 input:checked + .slider:before {
   transform: translateX(26px);
@@ -62,8 +60,8 @@ body.dark-mode {
   --tf-footer-bg-color: #000000;
   --tf-projects-bg-color: #000000;
   --tf-pill-bg: #000000;
-  --tf-icon-fill: #ffffff;
-  --tf-icon-hover: #ffffff;
+  --tf-icon-fill: var(--bs-white);
+  --tf-icon-hover: var(--bs-white);
   
 
   /*changes text to white*/
