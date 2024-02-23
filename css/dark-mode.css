@@ -84,3 +84,7 @@ body.dark-mode {
   background-color: #000000
 }
 
+.dark-mode .card-body {
+  background-color: #000000
+}
+
