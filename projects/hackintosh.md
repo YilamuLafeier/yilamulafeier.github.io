@@ -14,10 +14,7 @@ labels:
 summary: "**DISCLAIMER: Installing Apple software, while NOT illegal, does violate the End User License Agreement (EULA) I will take down this project if need be** macOS 11.2.2 Big Sur running on an HP 800 G1 SFF."
 ---
 
-**DISCLAIMER: Installing Apple softwa
-re, while NOT illegal, does violate the End Use
-r License Agreement (EULA) I will take down thi
-s project if need be**
+**DISCLAIMER: Installing Apple software, while NOT illegal, does violate the End User License Agreement (EULA) I will take down this project if need be**
 
 Being able to successfully boot and run macOS on a machine designed to run Windows is one of my greatest and most challenging achievements yet. While against Apple's EULA, I learned a lot from the experience regarding computer hardware and OSes, and I gleaned a basic understanding of kernels. My discovery of "hackintoshing" is actually what pushed me to pursue an education in computer science in the first place. While I have not revisited the scene since a security patch broke my installation, I hope to work with similar topics in my career.
 
