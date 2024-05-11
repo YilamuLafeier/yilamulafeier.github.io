@@ -19,5 +19,27 @@ summary: "A simple webapp to connect students that want to study in pairs/groups
 Link to [project homepage](https://brainbows.github.io/).
 
 # Home Page
-![Brainbows Homepage](img/Brainbows/Homepage.png)
 
+![The homepage for the Brainbows webapp](https://raw.githubusercontent.com/YilamuLafeier/yilamulafeier.github.io/main/img/Brainbows/Homepage.png "Brainbows Homepage")
+
+# Profile
+
+![Edit Profile Page](https://raw.githubusercontent.com/YilamuLafeier/yilamulafeier.github.io/main/img/Brainbows/EditProfile.png)
+
+# Match
+![Match with other students](https://raw.githubusercontent.com/YilamuLafeier/yilamulafeier.github.io/main/img/Brainbows/ListStudents.png)
+
+# Calendar
+![Calendar](https://raw.githubusercontent.com/YilamuLafeier/yilamulafeier.github.io/main/img/Brainbows/Calendar.png)
+
+### Event Creation
+![Event Creation](https://raw.githubusercontent.com/YilamuLafeier/yilamulafeier.github.io/main/img/Brainbows/CreateStudySesh.png)
+
+### Event (calendar view)
+![Event View](https://raw.githubusercontent.com/YilamuLafeier/yilamulafeier.github.io/main/img/Brainbows/Event.png)
+
+### Event Details
+![Event Details](https://raw.githubusercontent.com/YilamuLafeier/yilamulafeier.github.io/main/img/Brainbows/EventDetails.png)
+
+# Office Hours
+![Office Hours](https://raw.githubusercontent.com/YilamuLafeier/yilamulafeier.github.io/main/img/Brainbows/OfficeHours.png)
