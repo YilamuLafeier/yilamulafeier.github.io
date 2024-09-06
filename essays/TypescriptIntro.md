@@ -79,7 +79,7 @@ function feelsLike(temp: number, humidity: number) {
 ```
 
 In essence, both code snippets are the same, however, in TypeScript it is much easier to pinpoint what is what. Of course, this is an incredibly rudimentary example, I look forward for the opportunity to work on larger projects using what I am 
-currently learning. Where I used `` feelsLike(temp: number, humidity: number)`` in TypeScript is instead ` feelsLike(temp, humidity)` in JS. It may be obvious, however, there is little clarification in the JavaScript snippet. 
+currently learning. Where I used `` feelsLike(temp: number, humidity: number)`` in TypeScript is instead `` feelsLike(temp, humidity)`` in JS. It may be obvious, however, there is little clarification in the JavaScript snippet. 
 
 As the semester progresses, I hope to use both languages more. My understanding is still loose, especially in programming as a whole, so this offers me a an opportunity to ~~lock in~~ better my understanding while improving the bad habits I made 
 over time. 
