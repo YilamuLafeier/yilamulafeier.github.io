@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-Title: TypeScript: First Impressions
+title: TypeScript: First Impressions
 date: 2024-09-05
 published: true
 labels:
