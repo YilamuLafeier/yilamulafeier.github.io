@@ -4,7 +4,7 @@ type: essay
 title: "Pull yourself up by your BOOTSTRAP5"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-22
-published: true
+published: false
 labels:
   - Computer Science
   - Technical
