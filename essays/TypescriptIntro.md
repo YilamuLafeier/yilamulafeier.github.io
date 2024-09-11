@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "TypeScript: First Impressions"
+title: "In With The New, Out With Old?"
 date: 2024-09-05
 published: true
 labels:
@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-# TypeScript: First Impressions
+# In With The New, Out With Old?
 
    My first experience with TypeScript was with my Software Engineering class. While it was new for me (and new for the course), I found that it made JavaScript easier to read at least for myself. I am most used to statically typed 
    languages. My past programming experiences are primarily in Java and C; my first attempt at this course being my only saving grace for the coursework. There is still much for me to refine in my own JavaScript/TypeScript knowledge, however, I 
