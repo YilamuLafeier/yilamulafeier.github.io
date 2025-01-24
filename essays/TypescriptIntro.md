@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "In With The New, Out With Old?"
 date: 2024-09-05
-published: true
+published: false
 labels:
   - Computer Science
   - JavaScript
