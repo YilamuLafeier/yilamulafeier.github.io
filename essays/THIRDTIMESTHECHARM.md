@@ -9,6 +9,8 @@ lables:
     - Software Engineering
     - Personal Story
 ---
+# Third time's the Charm
+
 
 Software engineering was never quite a large interest for me. While I’ve always found myself erring on the side of security and hardware, the flow of a project while ‘engineering a software’, so to speak, offers valuable tools for proper project organization and communication. Not to mention, the course helps prepare students like myself for entering the industry. Such knowledge and experience allow for students to have some basis before considering internships and their upper-level courses.
 
