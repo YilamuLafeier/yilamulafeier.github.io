@@ -4,7 +4,7 @@ type: project
 image: img/LyonsArboretum/IMG_0946.jpeg
 title: "Field Day at the Lyons Arboretum"
 date: 2023
-published: True
+published: False
 labels:
   - Volunteer
   - Teamwork
