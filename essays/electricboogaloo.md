@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Software Engineering 2<sup>2</sup>: The Electric Boogaloo<sup>The Electric Boogaloo<sup/>"
+title: "Software Engineering 2<sup>2</sup>: The Electric Boogaloo<sup>The Electric <br/>Boogaloo<sup/>"
 date: 2025-09-11
 published: True
 lables:
