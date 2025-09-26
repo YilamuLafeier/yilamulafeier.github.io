@@ -6,8 +6,8 @@ title: "First Encounters With Javascript: My Time At The Foo Bar"
 date: 2024-01-17
 published: false
 labels:
-  - Computer Science
-  - Personal
+    - Computer Science
+    - Personal
 ---
 
 

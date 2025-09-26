@@ -3,11 +3,11 @@ layout: essay
 type: essay
 title: "Rules Are Rules"
 date: 2025-25-09
-published: true
+published: True
 labels:
-    - Opinion
-    - Software Engineering
-    - Reflection
+        - Opinion
+        - Software Engineering
+        - Reflection
 ---
 # Rules Are Rules
 <br/>
