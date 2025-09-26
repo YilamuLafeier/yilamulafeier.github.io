@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Rules Are Rules"
-date: 2025-25-09
+date: 2025-09-25
 published: True
 labels:
         - Opinion
