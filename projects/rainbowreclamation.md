@@ -22,22 +22,22 @@ summary: "Your one stop shop for all lost things found."
 
 # Landing Page
 
-![The landing page for Rainbow Reclamation](/img/reclamation/landing.png "Landing Page")
+<img src="https://raw.githubusercontent.com/YilamuLafeier/yilamulafeier.github.io/main/img/reclamation/landing.png" alt="The landing page for Rainbow Reclamation" style="max-width: 100%; height: auto;">
 
 # User Homepage
 
-![The User Homepage](/img/reclamation/uhome.png "User Homepage")
+<img src="https://raw.githubusercontent.com/YilamuLafeier/yilamulafeier.github.io/main/img/reclamation/uhome.png" alt="The User Homepage" style="max-width: 100%; height: auto;">
 
 # Admin Homepage
 
-![The Admin Homepage](/img/reclamation/ahome.png)
+<img src="https://raw.githubusercontent.com/YilamuLafeier/yilamulafeier.github.io/main/img/reclamation/ahome.png" alt="The Admin Homepage" style="max-width: 100%; height: auto;">
 
 # Browse Found Items
 
-![Found Items](/img/reclamation/found.png)
+<img src="https://raw.githubusercontent.com/YilamuLafeier/yilamulafeier.github.io/main/img/reclamation/found.png" alt="Found Items" style="max-width: 100%; height: auto;">
 
 # Bounty Board
-![Bounty Board](/img/reclamation/bounty.png)
+<img src="https://raw.githubusercontent.com/YilamuLafeier/yilamulafeier.github.io/main/img/reclamation/bounty.png" alt="Bounty Board" style="max-width: 100%; height: auto;">
 
 # Admin Dashboard
-![Admin Dashboard](/img/reclamation/dashadmin.png)
+<img src="https://raw.githubusercontent.com/YilamuLafeier/yilamulafeier.github.io/main/img/reclamation/dashadmin.png" alt="Admin Dashboard" style="max-width: 100%; height: auto;">
